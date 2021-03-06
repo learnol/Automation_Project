@@ -1,2 +1,2 @@
 # Automation_Project
-Course assignment
+DevOps Essentials .This is Course Project - Task 2 submission
