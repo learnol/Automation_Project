@@ -1,3 +1,4 @@
+apt update-y
 dpkg -s apache2 &> /dev/null
 if [ $? -ne 0 ]
 then
