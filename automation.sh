@@ -44,8 +44,6 @@ aws s3 \
 
 IFS='
 '
-IFS='
-'
 execute=`find /tmp -mmin -1 -type f -exec ls -lh {} +`
 cat /var/www/html/inventory.html
 if [ $? != 0 ]
